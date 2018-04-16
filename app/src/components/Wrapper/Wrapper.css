@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0px auto;
+    padding: 0px 5%;
+    padding-top: 70px;
+    width: 92%;
+    /* justify-content: space-around;
+    align-content: flex-start;
+    background-color: white;
+    border-right: 8px solid black;
+    border-left: 8px solid black;
+    border-bottom: 10px solid black;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px rgba(0, 0, 0, 0.8), -12px 0 15px -4px rgba(0, 0, 0, 0.8); */
+  }
