@@ -4,8 +4,7 @@ import "./Title.css";
 const Title = props => (
 
         <div className="container">
-            <h1>Memory Game</h1>
-            <p>Click each of the cards ONCE to win.</p>
+            <h3>Rules: Click each of the cards ONCE to win. Select a card twice...and the game restarts</h3>
         </div>
 
 );

@@ -49,7 +49,7 @@ class App extends Component {
         const onTheLam = this.state.nonselectedcharacters.filter(character => character.name !== name);
         
         this.setState({ 
-            message: `Success`,
+            message: `Success - Select Another`,
             newScore: this.state.newScore + 1,
             cards: office,
             nonselectedcharacters: onTheLam
@@ -74,7 +74,7 @@ class App extends Component {
                 name={character.name}
                 image={character.image}
                 detectionAlert={this.detectionAlert} 
-                newScore={this.state.newScore}
+                // newScore={this.state.newScore}
                 shuffle={this.state.shuffle}
                 />
             })
