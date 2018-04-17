@@ -1,7 +1,7 @@
 # [The Office Memory Game](https://zachtjohnson01.github.io/TheOfficeMemoryGame/)
 
 
-<img src="images/game_demo.gif?raw=true" alt="Customer Order" width="500px" />
+<img src="images/game_demo.gif?raw=true" alt="" width="500px" />
 
 Click each of the cards ONCE to win. Select a card twice...and the game restarts
 
