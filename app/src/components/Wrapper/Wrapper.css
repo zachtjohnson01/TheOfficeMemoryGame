@@ -2,9 +2,10 @@
     display: flex;
     flex-flow: row wrap;
     margin: 0px auto;
-    padding: 0px 5%;
     padding-top: 70px;
-    width: 92%;
+    justify-content: center;
+    max-width: 1500px;
+    height: auto;
     /* justify-content: space-around;
     align-content: flex-start;
     background-color: white;
